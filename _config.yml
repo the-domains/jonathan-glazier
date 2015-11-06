@@ -1,0 +1,23 @@
+name: Jonathan Glazier
+favicon: null
+layout_spectrum: 0.15436120121739805
+typography_spectrum: 0.6015586049761623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3369561219587922
+  lightness: 0.9060873873531818
+  saturation: 0.20730455755256116
+  rhythmicContrast: 0.16848721029236913
+purpose: []
