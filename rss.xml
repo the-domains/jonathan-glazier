@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jonathan Glazier]]></title>
+        <description><![CDATA[Jonathan Glazier]]></description>
+        <link>https://thegrid.ai/jonathan-glazier/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 10:16:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonathan-glazier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jonathan Glazier]]></title>
+            <description><![CDATA[<article><h1>Jonathan Glazier</h1><p>Jonathan Glazier is a TV Format and Production Consultant. He also directs and produces television and video.</p></article>]]></description>
+            <link>http://jonathanglazier.com/</link>
+            <guid isPermaLink="false">6b3b2e69-c303-4eea-990e-226576fdbc4e</guid>
+            <pubDate>Fri, 06 Nov 2015 10:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/jonathan-glazier/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">465fd753-a441-454f-ac37-05246068a230</guid>
+            <pubDate>Fri, 06 Nov 2015 10:15:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
